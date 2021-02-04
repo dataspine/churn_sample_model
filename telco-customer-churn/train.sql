@@ -1,0 +1,1 @@
+select * from telco_churn_sample_data.train
